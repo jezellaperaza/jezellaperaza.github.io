@@ -1,0 +1,35 @@
+---
+title: "Jezella Peraza"
+image: "jezella.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/jezella-peraza-0755041ab"
+  # - label: Twitter
+  #   url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/jezellaperaza"
+  - label: Email
+    url: "mailto:jezper@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Jezella Peraza is a first-year Master's student who studies marine renewable energy at the University of Washington. 
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+M.S. in Aquatic and Fishery Sciences | September 2021 - December 2023
+
+**California State University, Monterey Bay** | Seaside, CA
+
+B.S. in Marine Science | August 2017 - May 2021
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
