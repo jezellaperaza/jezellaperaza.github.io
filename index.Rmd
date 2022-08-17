@@ -16,7 +16,7 @@ output:
  
 ## Bio
 
-Jezella Peraza is a first-year Master's student who studies marine renewable energy at the University of Washington. 
+Jezella Peraza is a second-year Master's student who studies the potential impacts of marine renewable energy on marine fish at the University of Washington. 
 
 ## Education
 
@@ -30,6 +30,6 @@ B.S. in Marine Science | August 2017 - May 2021
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**NOAA** | EPP/MSI Scholar & Student Intern | May 2019 - May 2021
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Monterey Bay Aquarium** | Student Extern | August 2020 - May 2021
